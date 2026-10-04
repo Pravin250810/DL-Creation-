@@ -1,0 +1,6 @@
+{
+  "name": "DL Creation - Atelier de Bijoux",
+  "description": "Every Look. A Little More Beautiful. Elite Indian imitation & demi-fine jewellery mobile web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
